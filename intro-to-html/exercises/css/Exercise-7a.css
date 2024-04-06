@@ -1,0 +1,21 @@
+.Meow{
+    width: 200px;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+
+.Meow2{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    object-position: center;
+    margin-right: 50px;
+}
+
+.Meow3{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+}
